@@ -1,0 +1,21 @@
+img {
+	width:40%;
+	height: 40%;
+}
+
+body {
+	background-color: black;
+}
+
+h1 {
+	color: white;
+	font-family: 'PT Sans Narrow', sans-serif;
+	margin-left: 3%;
+}
+ul {
+	list-style: none;
+}
+
+ul li {
+	dislay: inline;
+}
